@@ -1,9 +1,9 @@
 # etl-project
 
 To-do:
-Clean Baseball Data - Atl games only
-Clean away team scores
-Clean weather data
-Join tables
-Load to SQL or Mango
-Write-up
+1) Clean Baseball Data - Atl games only 
+2) Clean away team scores 
+3) Clean weather data 
+4) Join tables 
+5) Load to SQL or Mango 
+6) Write-up 
