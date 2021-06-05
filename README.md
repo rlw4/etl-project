@@ -5,5 +5,5 @@ To-do:
 2) Clean Extra Inning team scores 
 3) Clean weather data 
 4) Join tables 
-5) Load to SQL or Mango 
+5) Load to SQL or Mongo 
 6) Write-up 
